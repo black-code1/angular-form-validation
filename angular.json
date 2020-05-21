@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-form-validation"
+    }
+  },
+  "defaultProject": "ng-form-validation",
+  "cli": {
+    "analytics": false
+  }
 }
